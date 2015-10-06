@@ -1,0 +1,8 @@
+{
+  "name": "english-months",
+  "version": "0.0.0",
+  "description": "zero-based array of English month in calendar order",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "kemitchell/english-months.json",
+  "license": "CC0-1.0"
+}
