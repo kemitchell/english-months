@@ -5,6 +5,9 @@
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/english-months",
   "license": "CC0-1.0",
+  "files": [
+    "index.json"
+  ],
   "scripts": {
     "prepublish": "echo '~~~json' > README.md && cat index.json >> README.md && echo '~~~' >> README.md"
   }
