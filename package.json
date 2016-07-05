@@ -4,5 +4,8 @@
   "description": "zero-based array of English month in calendar order",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/english-months.json",
-  "license": "CC0-1.0"
+  "license": "CC0-1.0",
+  "scripts": {
+    "prepublish": "echo '~~~json' > README.md && cat index.json >> README.md && echo '~~~' >> README.md"
+  }
 }
