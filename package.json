@@ -1,6 +1,6 @@
 {
   "name": "english-months",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "zero-indexed, calendar-order array of English month names",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/english-months",
